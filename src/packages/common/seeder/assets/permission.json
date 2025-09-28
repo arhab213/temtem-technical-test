@@ -1,0 +1,37 @@
+[
+  {
+    "key": "can_add_products",
+    "description": " user can add the products",
+    "category": "products"
+  },
+  {
+    "key": "can_delete_products",
+    "description": " user can delete the products",
+    "category": "products"
+  },
+  {
+    "key": "can_edit_products",
+    "description": " user can edit the products",
+    "category": "products"
+  },
+  {
+    "key": "can_view_products",
+    "description": " user can view the products",
+    "category": "products"
+  },
+  {
+    "key": "can_create_role",
+    "description": "master user can give to other user role based acess with specified perissions",
+    "category": "roles"
+  },
+  {
+    "key": "can_delete_role",
+    "description": "master user can delete other user role based acess",
+    "category": "roles"
+  },
+  {
+    "key": "can_edit_role",
+    "description": "master user can edit other user role based acess",
+    "category": "roles"
+  }
+]

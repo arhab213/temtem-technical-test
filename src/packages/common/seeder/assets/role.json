@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ShopOwner",
+    "accessType": "Admin",
+    "permissions": [
+      "can_create_role",
+      "can_delete_role",
+      "can_edit_role",
+      "can_add_products",
+      "can_edit_products",
+      "can_delete_products",
+      "can_view_products"
+    ]
+  },
+  {
+    "name": "Seller",
+    "accessType": "Admin",
+    "permissions": [
+      "can_add_products",
+      "can_edit_products",
+      "can_delete_products",
+      "can_view_products"
+    ]
+  },
+  {
+    "name": "Guest",
+    "accessType": "Guest",
+    "permissions": ["can_view_products"]
+  }
+]

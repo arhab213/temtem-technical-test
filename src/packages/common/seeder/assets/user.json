@@ -1,0 +1,23 @@
+[
+  {
+    "firstname": "john",
+    "lastname": "doe",
+    "role": ["ShopOwner"],
+    "email": "jhondoe@gmail.com",
+    "passwordHash": "$2a$12$e4bCvE/7x11S4Thi98/OJ.XOo1dTmKi99UypZxdpLKSVymrGn91mi"
+  },
+  {
+    "firstname": "martin",
+    "lastname": "bouteflika",
+    "role": ["Seller"],
+    "email": "martinbouteflika@gmail.com",
+    "passwordHash": "$2a$12$8sTtHb2TuhTxu5EFtUPfY.vgCS/.hij0clkVLJegRKBkbmE0milDO"
+  },
+  {
+    "firstname": "Mohamed",
+    "lastname": "issa",
+    "role": ["Guest"],
+    "email": "mohamedissa@gmail.com",
+    "passwordHash": "$2a$12$iGa8fxKBB4UaSx50tYUbZuGceJM72.UUP1XRmeeeIg.TvtMRArTRe"
+  }
+]
